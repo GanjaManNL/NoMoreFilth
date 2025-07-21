@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vO2fQSxWH0q0Hp8Nbhgaycwtg41cm7jJuSaYUFm6oRDcmdlY08IgVhNZQ5zMa2HNhzE6an3jH2lj30Z6n9F7g==",
+  "success": true,
+  "projectFilePath": "H:\\GITHUB\\Mods\\NoMoreFilth\\Source\\NoMoreFilth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesse\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4069\\krafs.rimworld.ref.1.5.4069.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
